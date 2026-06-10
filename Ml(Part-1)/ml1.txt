@@ -22,3 +22,30 @@
 
 ---------------------------------------------------------------------------------
 
+** AI v/s ML v/s DL
+----------------------
+
+-> AI (Artificial Intelligence) is the broadest concept, ML (Machine Learning) is a subset of AI focused on learning from data, and DL (Deep Learning) is a specialized subset of ML that uses neural networks to handle complex tasks. 
+-> In short: AI → ML → DL, each layer narrowing in scope but increasing in technical depth.
+
+
+* Real-Life Analogies
+------------------------
+
+-> AI: The entire concept of making machines “think” (like a smart assistant).
+
+-> ML: Teaching the assistant by showing examples (e.g., recognizing spam emails).
+
+-> DL: Giving the assistant a “brain-like” structure (neural networks) so it can learn complex tasks like facial recognition or language translation.
+
+
+* Key Takeaways
+-------------------
+
+-> AI is the umbrella → includes ML and DL.
+
+-> ML is the engine → learns from data.
+
+-> DL is the turbocharged engine → uses neural networks for advanced tasks.
+
+-> Data & compute needs grow as you move from AI → ML → DL.
