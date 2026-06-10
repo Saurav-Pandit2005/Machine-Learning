@@ -1,3 +1,24 @@
 "Machine Learning is all about reaching computers to learn from data - just like we learn from experience."
 ------------------------------------------------------------------------------------------------------------
 
+** Machine Learning
+---------------------
+
+-> Have you ever wondered how netflix knows what you want to watch next? or how Google Translate works like magic? The secret behind it all... is Machine Learning.
+
+-> Instead of programming every step, we give Machines lots of data and let them figure out patterns on their own.
+
+-> Today, Machine Learning powers everthing from the apps on your Phone to the system behind hospitals, banks, and even space research. Learning ML means you're Learning the langauge of the future.
+
+
+** Real Life Machine Learning applications
+---------------------------------------------
+
+-> YouTube Recommendations -> Learns from your watch history.
+-> Spam Detection in Gmail -> Learns pattern in spam emails.
+-> Voice Assistants(Siri, Alexa) -> Learn how you speak.
+-> Self-Driving Cars -> Learn to identify stop signs, pedestrians, and roads.
+-> Face Unlock on Phones -> Learn to recogize your face.
+
+---------------------------------------------------------------------------------
+
