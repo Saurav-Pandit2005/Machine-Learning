@@ -54,3 +54,78 @@
 
 ** Types of Machine Learning
 ------------------------------ 
+
+1. Supervised Learning
+------------------------
+
+    Definition: Model is trained on labeled data (input + correct output).
+
+    Goal: Learn mapping between inputs and outputs.
+
+    Subtypes:
+
+        Classification → Predict categories (spam vs non-spam, disease detection).
+
+        Regression → Predict continuous values (house prices, sales forecasting).
+
+    Examples: Email spam filters, credit scoring, medical diagnosis.
+
+    Algorithms: Logistic Regression, Decision Trees, Random Forest, SVM, Linear Regression.
+
+    Pros: High accuracy when labeled data is available.
+
+    Cons: Requires large amounts of labeled data.
+    ----------------------------------------------------------------------------------------
+
+2. Unsupervised Learning
+--------------------------
+
+    Definition: Model works with unlabeled data, finding hidden patterns.
+
+    Goal: Discover structure in data (grouping, dimensionality reduction).
+
+    Subtypes:
+
+        Clustering → Group similar data (customer segmentation, market analysis).
+
+        Association → Find relationships (market basket analysis: “people who buy X also buy Y”).
+
+    Examples: Customer segmentation, anomaly detection, recommendation systems.
+
+    Algorithms: K-Means, Hierarchical Clustering, Apriori, PCA.
+
+    Pros: Useful when labels are unavailable.
+
+    Cons: Harder to evaluate accuracy
+    ---------------------------------------------------------------------------------------------
+
+3. Semi-Supervised Learning
+-----------------------------
+
+    Definition: Mix of labeled + unlabeled data.
+
+    Goal: Use small labeled data to guide learning from large unlabeled data.
+
+    Examples: Medical imaging (few labeled scans, many unlabeled), fraud detection.
+
+    Pros: Reduces labeling cost.
+
+    Cons: Still requires some labeled data.
+    --------------------------------------------------------------------------------
+
+4. Reinforcement Learning (RL)
+--------------------------------
+
+    Definition: Agent learns by interacting with environment, receiving rewards/penalties.
+
+    Goal: Maximize cumulative reward through trial and error.
+
+    Examples: Self-driving cars, robotics, game-playing AI (AlphaGo).
+
+    Algorithms: Q-Learning, Deep Q-Networks (DQN), Policy Gradient methods.
+
+    Pros: Powerful for sequential decision-making.
+
+    Cons: Training can be slow and resource-intensive.
+
+----------------------------------------------------------------------------------------------
