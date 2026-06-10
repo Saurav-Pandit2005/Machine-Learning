@@ -49,3 +49,8 @@
 -> DL is the turbocharged engine → uses neural networks for advanced tasks.
 
 -> Data & compute needs grow as you move from AI → ML → DL.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+** Types of Machine Learning
+------------------------------ 
