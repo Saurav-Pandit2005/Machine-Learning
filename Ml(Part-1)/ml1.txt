@@ -212,4 +212,8 @@ Add decide what to do next
             -> Mean/Median : for numerical data
             -> Mode : for categorical data
             -> Advanced : Linear Regression, KNN, or interpolation.
-            
+
+    
+2) Remove Duplicates
+
+    -> Detect and drop exact Duplicates rows
