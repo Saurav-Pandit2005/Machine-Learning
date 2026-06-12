@@ -197,3 +197,7 @@ Add decide what to do next
 
 ** Data Cleaning
 --------------------
+
+1) Handle Missing Value
+
+    -> Check which columns have missing values (nulls).
